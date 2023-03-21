@@ -1,0 +1,27 @@
+.pseudo{
+    color: rgb(255, 0, 183);
+    font-style: italic;
+}
+
+.ta3li9{
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+}
+
+.comm {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    margin-top: 10px;
+    box-shadow: 0 0 15px rgb(255, 0, 187);
+}
+
+.envoyer{
+    margin-left: 250px;
+    margin-top: -35px;
+}
+
+.no9ta{
+    color: black;
+}
